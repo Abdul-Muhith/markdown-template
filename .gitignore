@@ -1,0 +1,5 @@
+.env
+*.txt
+!story.txt
+temp/
+node_module/
