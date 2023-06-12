@@ -2,7 +2,7 @@
 
 abdullah  
 
-this is second line<br>
+this is second line
 
 <br/>
 
@@ -151,33 +151,7 @@ http://www.abdullah.com
 <br/>
 
 ### imoji
-😊
-
-😼
-
-❤️
-
-💖
-
-🆗
-
-⏺️
-
-⏸️
-
-⏹️
-
-🔆
-
-⏏️
-
-🆕
-
-🖱️
-
-🔘
-
-✅
+😊 😼 ❤️ 💖 🆗 ⏺️ ⏸️ ⏹️ 🔆 ⏏️ 🆕 🖱️ 🔘 ✅
 
 <br/>
 
@@ -187,11 +161,6 @@ http://www.abdullah.com
 | Abdullah | abdullah@email.com|
 | Ano | ano@mail.com |
 | Emtiazur Rahman | er@email.com |
-
-
-
-
-
 
 
 
